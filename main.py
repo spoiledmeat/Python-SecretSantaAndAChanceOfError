@@ -1,4 +1,4 @@
-#Author: James Sweeten Jr.
+#Author: /Spoiledmeat on Github
 #NOTE: This version is the version that was used for a real
 #      game in 2016, but note that it is flawed! On extensive testing,
 #      I found that there is around a 5% chance that someone 
